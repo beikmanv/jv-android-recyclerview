@@ -117,6 +117,14 @@ public class MainActivity extends AppCompatActivity {
                 5.00);
         foodItemList.add(sandwich);
 
+        FoodItem restaurant = new FoodItem(
+                R.drawable.restaurant,
+                "Restaurant",
+                "The whole restaraunt with all food available " +
+                        "(for VIP clients only)",
+                500000.00);
+        foodItemList.add(restaurant);
+
         foodItemAdapter = new FoodItemAdapter(foodItemList);
 
         recyclerView.setAdapter(foodItemAdapter);
