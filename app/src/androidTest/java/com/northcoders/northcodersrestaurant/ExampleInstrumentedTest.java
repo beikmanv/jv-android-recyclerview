@@ -1,4 +1,4 @@
-package com.nothcoders.northcodersrestaurant;
+package com.northcoders.northcodersrestaurant;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;

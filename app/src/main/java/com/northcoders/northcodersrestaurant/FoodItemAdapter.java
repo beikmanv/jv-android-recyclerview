@@ -1,15 +1,15 @@
-package com.nothcoders.northcodersrestaurant;
+package com.northcoders.northcodersrestaurant;
 
 import android.view.LayoutInflater;
-import android.view.View;
 import android.view.ViewGroup;
 
 import androidx.annotation.NonNull;
 import androidx.databinding.DataBindingUtil;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.northcoders.northcodersrestaurant.model.FoodItem;
+import com.nothcoders.northcodersrestaurant.R;
 import com.nothcoders.northcodersrestaurant.databinding.FoodItemLayoutBinding;
-import com.nothcoders.northcodersrestaurant.model.FoodItem;
 
 import java.util.List;
 

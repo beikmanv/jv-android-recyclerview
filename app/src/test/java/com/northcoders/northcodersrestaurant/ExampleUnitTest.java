@@ -1,4 +1,4 @@
-package com.nothcoders.northcodersrestaurant;
+package com.northcoders.northcodersrestaurant;
 
 import org.junit.Test;
 

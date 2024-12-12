@@ -1,4 +1,4 @@
-package com.nothcoders.northcodersrestaurant.model;
+package com.northcoders.northcodersrestaurant.model;
 
 import android.widget.ImageView;
 
